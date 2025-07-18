@@ -77,6 +77,6 @@ Source 15: https://www.w3schools.com/jquery/jquery_get_started.asp
 Source 16: https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android
 Source 17: https://stackoverflow.com/questions/10734396/how-to-launch-php-file-from-javascript-without-window-open
 Figures 1-6 and 9-23: own illustration
-Figure 7: https://www.amazon.de/gp/product/B0798SWCBC/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1 [Zugriff: 24.12.2018]
-Figure 8: https://www.amazon.de/gp/product/B009VCZUQC/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1 [Zugriff: 24.12.2018]
+Figure 7: https://www.amazon.de/gp/product/B0798SWCBC/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1 [last access: 24.12.2018]
+Figure 8: https://www.amazon.de/gp/product/B009VCZUQC/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1 [last access: 24.12.2018]
 

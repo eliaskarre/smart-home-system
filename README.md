@@ -1,4 +1,5 @@
 <img width="400" height="300" alt="tplogo1" src="https://github.com/user-attachments/assets/1e6d6672-cb9b-4a6a-84eb-2bf3b6700c16" />
+
 # Apprenticeship Final Engineering Project: Smart Home System
 
 This project was developed as part of my final engineering thesis at Evangelisches Gymansium und Werkschulheim (Austria).

@@ -1,4 +1,4 @@
-<img width="400" height="300" alt="Unbenannt-1" src="https://github.com/user-attachments/assets/8b49b952-2ed6-466f-b7e1-99571dff6cb5" />
+<img width="200" height="150" alt="Unbenannt-1" src="https://github.com/user-attachments/assets/8b49b952-2ed6-466f-b7e1-99571dff6cb5" />
 
 
 # Apprenticeship Final Engineering Project: Smart Home System

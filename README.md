@@ -30,7 +30,7 @@ The project can be divided into 4 main chapters: Programming the web application
 
 I decided to start the project with the configuration of the NodeMCU ESP8266 microcontroller from AZDelivery. However, before this can be connected to a computer for transferring program code, the Arduino development environment must be installed and configured. After connecting a 433 MHz receiver module to the GPIO ports of the microcontroller, the radio code parameters of the individual radio-controlled lamp holders and radio-controlled sockets can be determined using the remote con-trols supplied and recorded in an Excel spreadsheet in the meantime.
 
-<img width="756" height="887" alt="image" src="https://github.com/user-attachments/assets/8c24aea8-826b-4c3c-8e8c-f18585e69caa" />
+<img width="356" height="487" alt="image" src="https://github.com/user-attachments/assets/8c24aea8-826b-4c3c-8e8c-f18585e69caa" />
 
 Once the radio codes of each radio device have been determined, the radio receiver module can be removed again and replaced by a radio transmitter. To be able to respond to incoming http requests, a small web server must be installed on the microcontroller. This web server can extract radio pa-rameters from an http request tailored to the project, which it can then send out via the radio trans-mitter. In this way, it is possible for every network-compatible device in the same network to com-mand the microcontroller to send out a certain radio signal using a curl function.
 
@@ -44,7 +44,8 @@ The menu is programmed using JavaScript. With normal JavaScript code and jQuery,
 
 As the web application is to be built dynamically depending on the database entries, the code is in a php file. Using Php as a scripting language, database entries can be entered and displayed as an ele-ment on the website. The term element refers to the button of a radio device. The button of a radio offers the user two actions: Switching the device on and off.
 
-<img width="1651" height="902" alt="image" src="https://github.com/user-attachments/assets/6e30d809-5fab-4173-8ea6-5fe0db85f95b" />
+<img width="1654" height="921" alt="image" src="https://github.com/user-attachments/assets/27567e8f-ec64-4527-88cd-0d58804bf152" />
+
 
 ## Conclusion
 In conclusion, it can be said that the development of the “Home Control” project challenged me in many ways and I encountered some problems during the written formulation. I really enjoyed the process of solving these unexpected problems, knowing that the project would become better and more perfect with every problem solved or work step simplified. I can proudly say that I worked out and developed the theoretical and practical part of the engineering project completely independently with the help of the sources provided. 

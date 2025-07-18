@@ -1,4 +1,4 @@
-<img width="200" height="150" alt="tplogo1" src="https://github.com/user-attachments/assets/1e6d6672-cb9b-4a6a-84eb-2bf3b6700c16" />
+<center><img width="200" height="150" alt="tplogo1" src="https://github.com/user-attachments/assets/1e6d6672-cb9b-4a6a-84eb-2bf3b6700c16" /> </center>
 
 # Apprenticeship Final Engineering Project: Smart Home System
 

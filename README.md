@@ -2,7 +2,7 @@
 
 # Apprenticeship Final Engineering Project: Smart Home System
 
-This project was developed as part of my final engineering thesis at Evangelisches Gymansium und Werkschulheim (Austria).
+This project was developed as part of my final engineering thesis in the apprenticeship at Evangelisches Gymansium und Werkschulheim (Austria).
 
 ➡️ For the full documentation of this thesis find the file [Full Project Documentation.pdf](https://github.com/user-attachments/files/21316378/Full.Project.Documentation.pdf)
 

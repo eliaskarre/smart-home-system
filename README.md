@@ -38,7 +38,10 @@ The second main chapter of the project will deal with the configuration of the R
 
 Once all the settings have been made in the Raspberry Pi operating system, the database structure for the transmission codes can be created using the phpMyAdmin tool. The project's database only requires one table called “codes”. One row of the table contains information about the name of the device, the radio parameters (protocol number, pulse length and pulse value), the action that triggers the signal (on or off) and the category of the device (either a lamp or socket). The signal codes from the previously created Excel table can now be entered into the database. There are two entries for each device name: one with the “on” action and one with the “off” action.
 
-When the database is ready for retrieval, the last main chapter of the project can begin: The pro-gramming of the web application. As the website should be responsive, the CSS file does not contain absolute values, but values relative to the viewport. This means that the menu is displayed in the same proportions on smartphones with different screen resolutions.
+<img width="1661" height="905" alt="image" src="https://github.com/user-attachments/assets/ccc9f158-3839-44e5-8284-41cc3f3e2b00" />
+
+
+When the database is ready for retrieval, the last main chapter of the project can begin: The programming of the web application. As the website should be responsive, the CSS file does not contain absolute values, but values relative to the viewport. This means that the menu is displayed in the same proportions on smartphones with different screen resolutions.
 
 The menu is programmed using JavaScript. With normal JavaScript code and jQuery, the website is divided into menu tabs. These tabs can be scrolled through on a smartphone with the help of a script using a swipe gesture. A tap on the respective menu item is also sufficient to switch to the content of this tab.
 

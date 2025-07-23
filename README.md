@@ -5,6 +5,8 @@
 This project was developed as part of my final engineering thesis during my apprenticeship as an information technician at Evangelisches Gymnasium und Werkschulheim in Austria.
 
 ➡️ For the full documentation of this thesis find the file [Full Project Documentation.pdf](https://github.com/user-attachments/files/21316378/Full.Project.Documentation.pdf)
+➡️ For a quick overlook of the project in form of a user manual find the file [User Manual.pdf](https://github.com/user-attachments/files/21389679/User.Manual.pdf)
+
 
 ## Objective
 

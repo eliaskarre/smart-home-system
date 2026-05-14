@@ -2,7 +2,7 @@
 
 # Final Engineering Project: Smart Home System
 
-This project was developed as part of my final engineering thesis during my apprenticeship as an information technician at Evangelisches Gymnasium und Werkschulheim in Austria.
+This project was developed as part of my final engineering thesis during my apprenticeship as an information technician at Evangelisches Gymnasium und Werkschulheim in Austria (2018).
 
 ➡️ For the full documentation of this thesis find the file [Full Project Documentation.pdf](https://github.com/user-attachments/files/21316378/Full.Project.Documentation.pdf)
 
